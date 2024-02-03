@@ -1,0 +1,5 @@
+,Model,Accuracy,Precision,Recall,F1 Score,ROC-AUC,Average Precision,Matthews Correlation Coefficient,Cohen's Kappa,Time (s),Log Loss
+0,Sakil/IMDB_URDUSENTIMENT_MODEL,0.5,0.25,0.5,0.3333333333333333,0.5,0.5,0.0,0.0,59.47648882865906,0.6935602798227363
+1,mnoukhov/gpt2-imdb-sentiment-classifier,0.5,0.25,0.5,0.3333333333333333,0.5,0.5,0.0,0.0,137.21408605575562,2.847538429315374
+2,wrmurray/roberta-base-finetuned-imdb,0.5,0.25,0.5,0.3333333333333333,0.5,0.5,0.0,0.0,222.4618320465088,3.1081703345764247
+3,kurianbenoy/distilbert-base-uncased-finetuned-sst-2-english-finetuned-imdb,0.925,0.9261523158620912,0.925,0.9249492657036158,0.925,0.8841967680608365,0.8511515358416237,0.85,51.33870315551758,2.817650455215916
